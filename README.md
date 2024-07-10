@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dmytro Yurchyshyn</h1>
 <h3 align="center">A passionate backend developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **Django REST framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
